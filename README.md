@@ -1,3 +1,4 @@
+<img width="697" height="337" alt="Zomato-Restaurants-Analysis" src="https://github.com/user-attachments/assets/4e013c02-64d4-443d-a574-71040946631e" />
 # Zomato Restaurant Analysis Dashboard
 
 ### 📊 Project Overview
